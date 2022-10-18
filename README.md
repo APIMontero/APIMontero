@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @APIMontero
-- 👀 I’m interested in TI, Develop and more.
-- 🌱 I’m currently learning new technologies for develop better way.
-- 💞️ I’m looking to collaborate on JS, PHP, HTML, CSS and Java proyects.
-- 📫 Call me at my phone number  +56974809847 or my email: david.montero.urrutia@gmail.com
+- 👋 Welcome!, ¡Bienvenid@!
+- 👀 Te cuento, soy Ingeniero Informático y buscando oportunidades para mejorar y actuar.
+- 🌱 Busco la mejora continua de forma, para ello busco capacitación constante, ideas de negocio en TI actuales y como aplicarlas.
+- 💞️ Quiero ayudarle a cumplir con sus metas, objetivos y visión de negocio, implementando las Tecnologias de la información para darle dinamismo  y auge.
+- 📫 Me puede contactar por télefono o WhatsApp al número *+56974809847* o por correo electrónico en *david.montero.urrutia@gmail.com*
 
 <!---
 APIMontero/APIMontero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
